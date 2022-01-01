@@ -105,7 +105,7 @@ section p {
 	text-align: center;
 }
 .banner-area .banner-img {
-	background-image: url(img/bg-image-01.jpg);
+	background-image: url(bg-image-01.jpg);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -176,7 +176,7 @@ ul.about-content {
 }
 .about-left {
 	flex-basis: 40%;
-	background-image: url(img/about.jpg);
+	background-image: url(about.jpg);
 }
 .about-right {
 	flex-basis: 60%;
